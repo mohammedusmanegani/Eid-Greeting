@@ -1,0 +1,77 @@
+body{
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+}
+.title{
+    color: #fff;
+    font-family: 'Pacifico', cursive;
+}
+.title-description{
+    color: #fff;
+    font-family: 'Sniglet', cursive;
+}
+.name-input{
+    background: transparent;
+    width: 60%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #fff;
+    border-radius: 4px;
+    color: #fff;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+}
+button{
+    background-color: #fff; 
+    border: none;
+    color: #ad2042;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 1s;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+}
+button:hover{
+    background-color: #ad2042; 
+    color: #fff;
+    cursor: pointer;
+    transition: 1s;
+}
+a{
+    background-color: #fff; 
+    border: none;
+    color: #ad2042;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 1s;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+}
+a:hover{
+    background-color: #ad2042; 
+    color: #fff;
+    cursor: pointer;
+    transition: 1s;
+}
+footer{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    color: #fff;
+    margin-top: 15%;
+}
